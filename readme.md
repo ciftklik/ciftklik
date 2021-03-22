@@ -1,5 +1,4 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciftklik" alt="ciftklik" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciftklik&show_icons=true&locale=en&layout=compact" alt="ciftklik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciftklik&show_icons=true&locale=en" alt="ciftklik" /></p>
